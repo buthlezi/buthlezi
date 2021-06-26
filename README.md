@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @buthlezi
 
 - 🌱 I’m currently learning Python and Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - buthlezi03@yahoo.com
 
 <!---
 buthlezi/buthlezi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
