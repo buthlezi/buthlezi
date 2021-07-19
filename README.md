@@ -8,5 +8,5 @@ buthlezi/buthlezi is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 
 --->
-Hi, my name is Fowell aka buthlezi.
+Hi, my name is Fowell Whitfield - aka buthlezi.
 I'm currently learning Python and Django
