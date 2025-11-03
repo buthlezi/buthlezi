@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fowell Whitfield - aka buthlezi
 
-- 🌱 I am a passionate and enthusiastic software developer with a background in communications/network engineering. I am keen to develop my coding skills and knowledge and very excited about the applications of HTML5, CSS, Javascript, Reactjs and Nodejs in designing web apps. 
+- 🌱 I am a passionate and enthusiastic software developer with a background in communications/network engineering. I am currently a Full-stack Developer at Mindful Education, contributing over 4 years of experience in designing and implementing innovative technical solutions. Proficient in React.js, Node.js, and database design, with a focus on enhancing user experiences and delivering value to internal stakeholders across departments.  
 - 
 - 📫 How to reach me - buthlezi03@yahoo.com
 
